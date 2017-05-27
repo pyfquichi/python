@@ -1,3 +1,5 @@
+git pull
+
 git add --all
 
 git commit -m "some message here"
