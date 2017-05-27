@@ -1,0 +1,50 @@
+China,1373541278
+India,1266883598
+United States,323995528
+Indonesia,258316051
+Brazil,205823665
+Pakistan,201995540
+Nigeria,186053386
+Bangladesh,156186882
+Russia,142355415
+Japan,126702133
+Mexico,123166749
+Philippines,102624209
+Ethiopia,102374044
+Vietnam,95261021
+Egypt,94666993
+Iran,82801633
+Congo Dem. Rep.,81331050
+Germany,80722792
+Turkey,80274604
+Thailand,68200824
+France,66836154
+United Kingdom,64430428
+Italy,62007540
+Burma,56890418
+South Africa,54300704
+Tanzania,52482726
+Korea South,50924172
+Spain,48563476
+Colombia,47220856
+Kenya,46790758
+Ukraine,44209733
+Argentina,43886748
+Algeria,40263711
+Poland,38523261
+Uganda,38319241
+Iraq,38146025
+Sudan,36729501
+Canada,35362905
+Morocco,33655786
+Afghanistan,33332025
+Malaysia,30949962
+Venezuela,30912302
+Peru,30741062
+Uzbekistan,29473614
+Nepal,29033914
+Saudi Arabia,28160273
+Yemen,27392779
+Ghana,26908262
+Mozambique,25930150
+Korea North,25115311
